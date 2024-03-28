@@ -1,0 +1,24 @@
+table{
+    margin-left: 390px;
+    text-align: center;
+    width: 50px;
+    color: yellow; 
+    
+    border-collapse: collapse ;
+    /* border-spacing: 30px;
+    border-style: dashed;
+    */
+}
+th, td{
+    padding: 20px;
+    border: 5px solid whitesmoke;
+    background-color: black;
+    /* border-spacing: 30px;
+    border-styling: dashed; */
+}
+
+th{
+    width: 45px;
+    height: 100px;
+}
+
